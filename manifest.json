@@ -13,7 +13,7 @@
                 "changelog": "- See the full changelog at [GitHub](https://github.com/streamyfin/jellyfin-plugin-streamyfin/releases/tag/0.56.0.0)\n",
                 "targetAbi": "10.9.9.0",
                 "sourceUrl": "https://github.com/klementng/jellyfin-plugin-streamyfin/releases/download/0.57.0.0/streamyfin-0.57.0.0.zip",
-                "checksum": "183efbd4e2cd9b57b34b8c4a564da395",
+                "checksum": "e892e72bf875c382b27a99b4e9793702",
                 "timestamp": "2025-07-12T23:52:54Z"
             },
             {
